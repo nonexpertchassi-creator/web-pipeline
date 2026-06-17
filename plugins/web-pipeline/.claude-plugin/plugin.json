@@ -1,0 +1,8 @@
+{
+  "name": "web-pipeline",
+  "description": "웹 제작 파이프라인 4단계(기획·디자인·마크업·프론트) 작업 지침. PHP 백엔드 + JS 프론트 분리 구조 기준.",
+  "author": {
+    "name": "차씨"
+  },
+  "keywords": ["web", "frontend", "planning", "design", "markup", "php", "javascript"]
+}

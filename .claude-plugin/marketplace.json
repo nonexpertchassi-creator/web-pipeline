@@ -1,0 +1,15 @@
+{
+  "name": "web-pipeline",
+  "owner": {
+    "name": "차씨",
+    "email": "non.expert.cha.ssi@gmail.com"
+  },
+  "description": "웹 제작 파이프라인(기획·디자인·마크업·프론트) 팀 내부 플러그인 마켓플레이스.",
+  "plugins": [
+    {
+      "name": "web-pipeline",
+      "source": "./plugins/web-pipeline",
+      "description": "웹 제작 4단계 작업 지침 + 단계별 핸드오프 기록. PHP 백엔드 + JS 프론트 분리 구조 기준."
+    }
+  ]
+}
